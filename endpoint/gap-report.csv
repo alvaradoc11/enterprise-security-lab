@@ -1,0 +1,2 @@
+sip,filevault,firewall,pass_count,risk,sip_raw,filevault_raw,firewall_raw
+True,False,True,2,MEDIUM,sip:1,0,1
